@@ -511,4 +511,9 @@ footer {
         padding: 25px;
     }
 
+    img {
+        width: 300px;
+        height: auto;
+       }
+
 }
